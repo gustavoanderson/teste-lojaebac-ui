@@ -1,0 +1,21 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie", 
+        "tamanho": "XL",
+        "cor": "Red",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Apollo Running Short", 
+        "tamanho": "33",
+        "cor": "Black",
+        "quantidade": 4
+    },
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt", 
+        "tamanho": "L",
+        "cor": "Purple",
+        "quantidade": 2
+    }
+
+]
