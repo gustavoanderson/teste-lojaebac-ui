@@ -4,7 +4,8 @@
   "description": "Realizando testes de UI com Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run --browser chrome",
+    "cy:dash" : "npx cypress run --record --key 06ce259a-b869-4406-a947-4f8e0d38e737"
   },
   "keywords": [],
   "author": "",
